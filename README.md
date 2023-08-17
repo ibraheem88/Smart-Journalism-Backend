@@ -6,3 +6,5 @@ Concepts covered:
 - JSON Web Token
 - Running Deep Learning Algorithms on Express Server
 - File Handling
+- Real Time Apis
+- Payment through stripe
